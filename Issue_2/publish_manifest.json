@@ -1,93 +1,15 @@
 {
-  "schema": "bcs.publish_manifest.v1",
-  "generated_utc": "2026-02-07T00:00:00Z",
-
-  "issue": {
-    "id": "issue_2",
-    "folder": "Issue_2",
-    "title": "CBD for Depression: The Science-Backed Truth You Need to Know",
-    "author": "The Lovely Refinement Team",
-    "edition_label": "Issue 2",
-    "publish_date": "2026-02-07",
-    "language": "en",
-    "description": "Evidence-informed overview of CBD and depression: what surveys report, what research shows, key safety risks, and guidance for cautious use with medical supervision.",
-    "tags": ["health", "mental-health", "depression", "cbd", "wellness"],
-    "cover": {
-      "closed_cover_image_url": "",
-      "alt": "Closed magazine cover for Issue 2."
-    }
+  "version": "1.0.0",
+  "runtime": {
+    "background": "blob:https://eda74fe1-6c42-486c-b600-200f392c6dc4-v2-figmaiframepreview.figma.site/4d48f56b-5b04-48cb-a8d1-62b9fc3c6c76",
+    "brandingEnabled": true
   },
-
-  "source": {
-    "provider": "github",
-    "repo": {
-      "owner": "JolieL21",
-      "name": "Lovely-Refinement",
-      "branch": "main"
-    },
-    "paths": {
-      "viewer_json_path": "Issue_2/viewer.json",
-      "publish_manifest_path": "Issue_2/publish_manifest.json"
-    },
-    "raw": {
-      "viewer_json_url": "https://raw.githubusercontent.com/JolieL21/Lovely-Refinement/main/Issue_2/viewer.json",
-      "publish_manifest_url": "https://raw.githubusercontent.com/JolieL21/Lovely-Refinement/main/Issue_2/publish_manifest.json"
-    },
-    "integrity": {
-      "viewer_json_sha256": "",
-      "publish_manifest_sha256": ""
-    }
+  "publication": {
+    "title": "Applegate",
+    "displayTitle": "Applegate"
   },
-
-  "wordpress": {
-    "shortcode": {
-      "name": "bcs_magazine",
-      "example": "[bcs_magazine inline=\"1\" json_url=\"https://raw.githubusercontent.com/JolieL21/Lovely-Refinement/main/Issue_2/viewer.json\"]",
-      "recommended": {
-        "inline": true,
-        "max_width": 1200,
-        "height": 820
-      }
-    }
-  },
-
-  "runtime_requirements": {
-    "cover_behavior": {
-      "true_closed_cover_state": true,
-      "first_open_animation": {
-        "enabled": true,
-        "type": "slow_zoom_out_back_up",
-        "duration_ms": 1400,
-        "positioning": {
-          "fixed_right_side": true,
-          "preserve_position_for_session": true
-        }
-      }
-    },
-    "accessibility": {
-      "wcag_level": "AA",
-      "keyboard_navigation": true,
-      "aria_roles": true,
-      "focus_management": true,
-      "announce_page_changes": true
-    },
-    "branding": {
-      "default_enabled": true,
-      "removable_via_config": true
-    },
-    "analytics": {
-      "events": {
-        "cover_view": true,
-        "issue_open": true,
-        "page_view": true,
-        "link_click": true
-      }
-    }
-  },
-
-  "validation": {
-    "required_files": ["viewer.json", "publish_manifest.json"],
-    "viewer_json_must_start_with": ["{", "["],
-    "reject_strings": ["@'"]
+  "music": {
+    "enabled": false,
+    "tracks": []
   }
 }
