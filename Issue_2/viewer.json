@@ -1,0 +1,1810 @@
+{
+  "schemaVersion": "1.0.0",
+  "accessibilityVersion": "1.0.0",
+  "title": "Applegate",
+  "coverState": "closed",
+  "pages": [
+    {
+      "pageId": "layout-page-flow-1770497207624-0",
+      "spreadPosition": "right",
+      "readingOrderIndex": 0,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207624-0-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.0784313725490196,
+            "y": 0.0606060606060606,
+            "width": 0.4313725490196078,
+            "height": 0.49242424242424243
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Have you ever watched someone you admire suddenly face a health challenge that changes everything?\nC"
+          },
+          "content": {
+            "text": "Have you ever watched someone you admire suddenly face a health challenge that changes everything?\nChristina Applegate, the actress we've loved for decades, got life-changing news in 2021. The actress, whose impressive career includes a Primetime Emmy Award and four Golden Globe nominations [6] —was diagnosed with multiple sclerosis (MS). [5] And she's been incredibly open about what this means for her daily life.\nMS is a disease of the central nervous system that affects the brain, spinal cord, and optic nerves. [24] The disease, affecting nearly one million Americans, is three times more common in women than men, and usually shows up between ages 20 and 40. [1]\nDiagnostic scans showed that Christina has 30 lesions on her brain, characteristic markers of MS that occur when the disease affects the central nervous system. [1] The impact has been huge, eventually requiring her to use a wheelchair to complete the final season of her show.[5]\nThat's when she made a difficult decision about her career.\nChristina, who previously battled and beat breast cancer at age 36 back in 2008, [6] announced she would step away from appearing on screen, though she plans to continue voice work. [6]\nChristina's journey shows us how someone can face a major health challenge with courage and honesty. She's not hiding from what's happening to her.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207632-1",
+      "spreadPosition": "left",
+      "readingOrderIndex": 1,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207625-0-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.11363636363636363
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Instead, she's sharing her story and using her voice to help others understand what living with MS a"
+          },
+          "content": {
+            "text": "Instead, she's sharing her story and using her voice to help others understand what living with MS actually looks like.\nWe're going to explore how she's handling this new chapter in her life, what she's learned, and how she's turning her experience into something that helps other people going through similar struggles.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207630-1",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.18087121212121213,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "The Day Everything Changed",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "The Day Everything Changed",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207632-2-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.22253787878787878,
+            "width": 0.45098039215686275,
+            "height": 0.3409090909090909
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Sometimes your body tries to tell you something for years before you're ready to listen.\nFor Christi"
+          },
+          "content": {
+            "text": "Sometimes your body tries to tell you something for years before you're ready to listen.\nFor Christina, it started small. Really small. Just some tingling in her toes. “My symptoms had started in the early part of 2021, and it was, like, literally just tingling on my toes,” she explained during a Good Morning America interview. [5]\nMost of us would probably brush that off, right?\nThe actual diagnosis came on an ordinary Monday. “They did an MRI in my brain, and it was a Monday, and we were at work. And my doctor said, ‘I really need to get on a Zoom with you to go over your MRI results,'” Christina recalled. [1]\nWhat happened next was devastating.\n“And I opened up my Zoom and there he was, and he just looked at me and he goes, ‘I'm so sorry.' And I was like, ‘What do you mean?' And he goes, ‘Here's a picture of your brain, sorry.' And there's like 30 lesions all over my brain. And I went, ‘No, please don't tell me this. Please don't.'”  [1]\nCan you imagine?",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207636-2",
+      "spreadPosition": "right",
+      "readingOrderIndex": 2,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207633-2-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.03787878787878788
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "One moment you're at work, and the next moment your entire life changes with three words: “I'm so so"
+          },
+          "content": {
+            "text": "One moment you're at work, and the next moment your entire life changes with three words: “I'm so sorry.”",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207633-3",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.10511363636363637,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "The Signs Were There All Along",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "The Signs Were There All Along",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207635-4-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.146780303030303,
+            "width": 0.45098039215686275,
+            "height": 0.30303030303030304
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Looking back, Christina realized her body had been sending signals for much longer than she thought."
+          },
+          "content": {
+            "text": "Looking back, Christina realized her body had been sending signals for much longer than she thought. “I probably had it for six or seven years, I think.” [1]\nDuring filming of the first season of Dead to Me, her leg would occasionally buckle. But like many of us do, she made excuses. Maybe she was tired. Maybe she was dehydrated. [1] The symptoms would disappear for months, making them easy to ignore.\nThat's the tricky thing about MS—it can hide in plain sight.\nIt wasn't until things got much worse that Christina finally sought medical attention. Her friend and fellow actress Selma Blair, who has MS herself, encouraged her to get tested. [1] By summer 2021, while filming the final season of the show, Christina's condition had changed dramatically. She arrived on set in a wheelchair because she couldn't walk to her trailer. [5]",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207635-5",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.46401515151515155,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Why Getting Help Early Matters",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Why Getting Help Early Matters",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207636-6-4",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.5056818181818182,
+            "width": 0.45098039215686275,
+            "height": 0.03787878787878788
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Here's something important that Christina's story shows us: Early detection can make a huge differen"
+          },
+          "content": {
+            "text": "Here's something important that Christina's story shows us: Early detection can make a huge difference.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207639-3",
+      "spreadPosition": "left",
+      "readingOrderIndex": 3,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207637-6-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.20833333333333331
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Medical experts agree that people with MS should start treatment as close to diagnosis as possible. "
+          },
+          "content": {
+            "text": "Medical experts agree that people with MS should start treatment as close to diagnosis as possible. [7] Research shows that early treatment slows down irreversible damage and reduces how often symptoms flare up. [7]\n“If treatment is not initiated within an early window, disability can accumulate and patients can experience irreversible neurologic damage,” experts note. [8]\nThat's why recognizing those small signs—like tingling toes or legs that buckle—matters so much.\nThe most important thing? Don't ignore what your body is trying to tell you.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207637-7",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.2755681818181818,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Life After Diagnosis: A New Normal",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Life After Diagnosis: A New Normal",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207638-8",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.3172348484848485,
+            "width": 0.45098039215686275,
+            "height": 0.046401515151515145
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Christina puts it bluntly: “I live kind of in hell.” [5]",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Christina puts it bluntly: “I live kind of in hell.” [5]",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207638-9-3",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.38257575757575757,
+            "width": 0.45098039215686275,
+            "height": 0.056818181818181816
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "There's no sugarcoating what MS has done to her life. The diagnosis didn't just change her career—it"
+          },
+          "content": {
+            "text": "There's no sugarcoating what MS has done to her life. The diagnosis didn't just change her career—it changed everything about how she moves through each day.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207638-10",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.4535984848484848,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Living with chronic pain and fatigue",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Living with chronic pain and fatigue",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207639-11-5",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.49526515151515155,
+            "width": 0.45098039215686275,
+            "height": 0.07575757575757576
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Pain is now Christina's constant companion. “I'm in excruciating pain, but I'm just used to it now,”"
+          },
+          "content": {
+            "text": "Pain is now Christina's constant companion. “I'm in excruciating pain, but I'm just used to it now,” she explains. [5]\nThe reality is harsh. She has 30 lesions on her brain.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207641-4",
+      "spreadPosition": "right",
+      "readingOrderIndex": 4,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207640-11-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.24621212121212122
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "[6] Her largest lesion sits right behind her right eye, causing frequent pain in that area. [6]\nMorn"
+          },
+          "content": {
+            "text": "[6] Her largest lesion sits right behind her right eye, causing frequent pain in that area. [6]\nMornings are the worst. “I put my feet on the ground and they're hurting, like, extraordinarily bad to the touch,” she describes. She compares it to standing on lava. [1] Often, this sends her right back to bed. “I just lay in bed all the time,” she admits. [1]\nThen there's the fatigue. Fatigue affects up to 90% of people with MS, [7] and it's not just being tired. It's the kind of exhaustion that makes picking up your phone feel impossible. MS specialists say this fatigue is different from normal tiredness because it completely interferes with what you want to do in your daily life. [8]",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207640-12",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.31344696969696967,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "How MS affects Christina's daily routine",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "How MS affects Christina's daily routine",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207641-13-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.35511363636363635,
+            "width": 0.45098039215686275,
+            "height": 0.18939393939393942
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Simple things have become incredibly difficult. “I can't even pick up my phone sometimes because now"
+          },
+          "content": {
+            "text": "Simple things have become incredibly difficult. “I can't even pick up my phone sometimes because now it's traveled into my hands, so I'll, like, try to go get my phone or get my remote to turn on the TV or sometimes, I can't even hold them. I can't open bottles now,” she reveals. [1]\nMoving around her own home has changed dramatically. Christina shares that she often can't make it down the hallway to say goodnight to her daughter, Sadie. [9] Things that used to be automatic now require planning and sometimes help.\nShe's had to create a support system to manage daily life.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207643-5",
+      "spreadPosition": "left",
+      "readingOrderIndex": 5,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207642-13-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.07575757575757576
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "“I have a friend who lives with me during the week and helps me take care of my daughter. On weekend"
+          },
+          "content": {
+            "text": "“I have a friend who lives with me during the week and helps me take care of my daughter. On weekends, I have a caretaker,” she explains. [1] This arrangement helps keep things stable for both her and her family.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207642-14",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.14299242424242425,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Why she isolates and avoids stimulation",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Why she isolates and avoids stimulation",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207642-15-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.1846590909090909,
+            "width": 0.45098039215686275,
+            "height": 0.17045454545454544
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "“Right now, I'm isolating,” Christina says candidly, “and that's kind of how I'm dealing with it, is"
+          },
+          "content": {
+            "text": "“Right now, I'm isolating,” Christina says candidly, “and that's kind of how I'm dealing with it, is by, like, not going anywhere, because I don't want to do it. It's hard.” [3]\nThis isn't just about avoiding people. As someone who's immunocompromised, she has to limit exposure to potential illness. [5] But there's another reason: “I also don't want a lot of stimulation of the nervous system because it can be a little bit too much for me. I like to keep it as quiet and as mellow as possible.” [5]",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207642-16",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.3693181818181818,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "The invisible nature of MS symptoms",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "The invisible nature of MS symptoms",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207643-17-4",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.41098484848484845,
+            "width": 0.45098039215686275,
+            "height": 0.15151515151515152
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Here's what makes this so challenging: “They call it the invisible disease. It can be very lonely be"
+          },
+          "content": {
+            "text": "Here's what makes this so challenging: “They call it the invisible disease. It can be very lonely because it's hard to explain to people,” Christina notes. [3]\nYou can look at someone with MS and think they seem fine. But inside, they might be dealing with intense pain and exhaustion. [1] Many people with MS struggle with this issue—trying to explain symptoms that others can't see or fully understand.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207645-6",
+      "spreadPosition": "right",
+      "readingOrderIndex": 6,
+      "elements": [
+        {
+          "elementId": "block-heading-1770497207643-18",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.046401515151515145
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "How Christina Copes: From Dark Humor to Finding Relief",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "How Christina Copes: From Dark Humor to Finding Relief",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207644-19-1",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.11837121212121211,
+            "width": 0.45098039215686275,
+            "height": 0.056818181818181816
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "When you're dealing with something as challenging as MS, you need tools that actually work. Christin"
+          },
+          "content": {
+            "text": "When you're dealing with something as challenging as MS, you need tools that actually work. Christina has found her own ways to get through the tough days.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207644-20",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.18939393939393942,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Why humor became her lifeline",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Why humor became her lifeline",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207645-21-3",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.23106060606060605,
+            "width": 0.45098039215686275,
+            "height": 0.24621212121212122
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "“I make these jokes because if I don't, I'll suffocate,” Christina shared on Dax Shepard's Armchair "
+          },
+          "content": {
+            "text": "“I make these jokes because if I don't, I'll suffocate,” Christina shared on Dax Shepard's Armchair Expert podcast. [10] That really hits home, doesn't it?\nShe uses humor like a shield. At the Emmy Awards, she joked about her “body not by Ozempic” while using a cane. [11] On Jimmy Kimmel Live!, she talked about potentially doing a somersault like Willy Wonka, saying, “It's how I live. It's how I keep myself OK.” [12]\nBut she's also brutally honest: “It sucks. I'm not going to lie. And I think anyone who has MS isn't going to be like, ‘This is the best thing that ever happened to me.'” [13]\nI think her approach shows us something important. Sometimes you have to laugh to keep from crying.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207645-22",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.4914772727272727,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Getting professional help",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Getting professional help",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207645-23-5",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.5331439393939393,
+            "width": 0.45098039215686275,
+            "height": 0.03787878787878788
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Beyond humor, Christina knows the value of emotional support."
+          },
+          "content": {
+            "text": "Beyond humor, Christina knows the value of emotional support.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207647-7",
+      "spreadPosition": "left",
+      "readingOrderIndex": 7,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207646-23-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.15151515151515152
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Talking therapies like counseling and psychotherapy create safe spaces for working through the compl"
+          },
+          "content": {
+            "text": "Talking therapies like counseling and psychotherapy create safe spaces for working through the complex emotions that come with chronic illness. [14]\nThese approaches help people accept change and work through anxiety, depression, and other difficult feelings. Cognitive behavioral therapy focuses on specific problem-solving techniques, giving you practical tools for handling life with MS. [14]",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207646-24",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.21875,
+            "width": 0.45098039215686275,
+            "height": 0.046401515151515145
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Leaning on the people who keep her fighting",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Leaning on the people who keep her fighting",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207646-25-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.2840909090909091,
+            "width": 0.45098039215686275,
+            "height": 0.13257575757575757
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "When you're dealing with a chronic illness, there are days when you want to give up. Christina has b"
+          },
+          "content": {
+            "text": "When you're dealing with a chronic illness, there are days when you want to give up. Christina has built a support network that helps her manage both her condition and her responsibilities as a mom.\nThis setup isn't just about practical help—it's about making sure Christina can focus on being present for her daughter while also taking care of herself.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207646-26",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.4308712121212121,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Christina's “reason”",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Christina's “reason”",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207647-27-4",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.47253787878787884,
+            "width": 0.45098039215686275,
+            "height": 0.07575757575757576
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Sometimes the people closest to us become our reason to keep going. For Christina, that person is he"
+          },
+          "content": {
+            "text": "Sometimes the people closest to us become our reason to keep going. For Christina, that person is her 14-year-old daughter, Sadie, whom she shares with husband Martyn LeNoble.\nHere's something beautiful about Sadie—she just gets it.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207649-8",
+      "spreadPosition": "right",
+      "readingOrderIndex": 8,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207649-27-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.5113636363636364
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "When Christina was first diagnosed in 2021, Sadie was “stoic” about the whole thing. [4] But now? Sh"
+          },
+          "content": {
+            "text": "When Christina was first diagnosed in 2021, Sadie was “stoic” about the whole thing. [4] But now? She's become one of Christina's biggest supporters. When they're out in public, Sadie knows exactly when her mom is struggling with mobility or feeling anxious. She'll offer her arm and help with her cane without even being asked. [19]\nAt home, Sadie pushes her mom to do things that feel hard. “She's like, ‘You're going down all the steps,'” Christina explains. Even when Christina doesn't want to, she does it anyway. Why? “I do it because I know she's checking in to make sure, ‘Can she still take care of me?'” [20]\nThat's a 14-year-old worrying about whether her mom can still be her mom. It's heartbreaking and inspiring at the same time.\nWhat makes their bond even stronger is that Sadie has her own health challenges. She's been diagnosed with postural orthostatic tachycardia syndrome (POTS).[4] Sadie put it perfectly when she said, “I feel like if I didn't have this thing it would be a lot harder to understand what my mom's going through.” [4]\nChristina is incredibly honest about what motivates her each day.\n“I get up [in the morning] because of [Sadie].” [19] “She's the reason I'm still here and trying.” [21]\nBut their relationship isn't without its painful moments. Sadie once told her mom something that cut deep: “I missed who you were before you got sick.” Christina described hearing that as “a knife to the heart.”",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207652-9",
+      "spreadPosition": "left",
+      "readingOrderIndex": 9,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207650-27-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.056818181818181816
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "[21]\nIt's those moments that remind us how illness affects entire families, not just the person diag"
+          },
+          "content": {
+            "text": "[21]\nIt's those moments that remind us how illness affects entire families, not just the person diagnosed.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207650-28",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.12405303030303029,
+            "width": 0.45098039215686275,
+            "height": 0.046401515151515145
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Finding Purpose: How Christina Turned Her Struggle into Something Meaningful",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Finding Purpose: How Christina Turned Her Struggle into Something Meaningful",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207651-29-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.18939393939393942,
+            "width": 0.45098039215686275,
+            "height": 0.09469696969696971
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Sometimes the most powerful thing you can do is stop pretending everything is fine.\nThat's exactly w"
+          },
+          "content": {
+            "text": "Sometimes the most powerful thing you can do is stop pretending everything is fine.\nThat's exactly what Christina did after her MS diagnosis. Instead of hiding behind the actress persona she'd carefully built over decades, she decided to get real with people.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207651-30",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.29829545454545453,
+            "width": 0.45098039215686275,
+            "height": 0.046401515151515145
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "The MeSsy podcast: real talk about real life",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "The MeSsy podcast: real talk about real life",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207652-31-4",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.36363636363636365,
+            "width": 0.45098039215686275,
+            "height": 0.15151515151515152
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "In March 2024, Christina teamed up with actress Jamie-Lynn Sigler, who also has MS, to create their "
+          },
+          "content": {
+            "text": "In March 2024, Christina teamed up with actress Jamie-Lynn Sigler, who also has MS, to create their podcast called MeSsy. [2]\nThis isn't your typical polished celebrity interview show. Their conversations are raw, unscripted, and honestly? Sometimes messy. [3] They talk about living with MS, but they also dive into all the other challenges life throws at you. [22] Just two women being real about what their lives actually look like.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207652-32",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.5293560606060607,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Why she's done hiding",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Why she's done hiding",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207657-10",
+      "spreadPosition": "right",
+      "readingOrderIndex": 10,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207655-33-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.18939393939393942
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "“I spent my career pretending to be someone else for everybody in the public eye. I don't have time "
+          },
+          "content": {
+            "text": "“I spent my career pretending to be someone else for everybody in the public eye. I don't have time to be inauthentic anymore. It's exhausting,” Christina says. [2]\nThink about that for a second. After 40 years of being “on” for everyone, she's finally decided to just be herself.\nShe calls the podcast her “coming out party.” [3] “I've been playing a character called Christina for 40 years, who I wanted everybody to think I was because it's easier.” [3]\nBut here's the thing—being authentic isn't always easier. It's just more honest.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207655-34",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.25662878787878785,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Helping others find their voice",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Helping others find their voice",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207657-35-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.29829545454545453,
+            "width": 0.45098039215686275,
+            "height": 0.20833333333333331
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Christina and Jamie-Lynn didn't start this podcast just for themselves. “In my situation, we've help"
+          },
+          "content": {
+            "text": "Christina and Jamie-Lynn didn't start this podcast just for themselves. “In my situation, we've helped each other so much, why not maybe help some other people?” Christina explains. [2]\nAnd it's working. Therapists are telling them that their patients are having breakthrough moments after listening. [23] People who felt alone in their struggles are finding their voice through hearing these honest conversations.\nThat's the power of authenticity. When you stop pretending everything is perfect, you give other people permission to do the same.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207661-11",
+      "spreadPosition": "left",
+      "readingOrderIndex": 11,
+      "elements": [
+        {
+          "elementId": "block-heading-1770497207657-36",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.046401515151515145
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Christina's Story Shows Us What Real Courage Looks Like",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Christina's Story Shows Us What Real Courage Looks Like",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207660-37-1",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.11837121212121211,
+            "width": 0.45098039215686275,
+            "height": 0.4356060606060606
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Christina Applegate's journey with MS isn't just a celebrity health story. It's a real look at what "
+          },
+          "content": {
+            "text": "Christina Applegate's journey with MS isn't just a celebrity health story. It's a real look at what it means to face something that completely changes your life and still find ways to help other people.\nWhat's most powerful about Christina's story is how she's chosen to be completely honest about it. She could have kept it private. She could have put on a brave face and pretended everything was fine. Instead, she's shown us what it actually looks like to live with an invisible illness.\nHer MeSsy podcast with Jamie-Lynn Sigler has become something special. It's not polished or perfect—it's real conversations between two women figuring out how to live with MS. That authenticity is helping other people feel less alone.\nIt's inspiring how Christina has found her purpose in this difficult situation. Chronic illness changes your life, but it doesn't have to end it. Sometimes life forces us down a different path, and we have to learn how to find meaning in unexpected places. The hardest things we go through can become the very things that help us help others.\nThat's courage. That's choosing to let people see you as you really are, even when it's messy and difficult and not what you planned.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207663-12",
+      "spreadPosition": "right",
+      "readingOrderIndex": 12,
+      "elements": [
+        {
+          "elementId": "block-heading-1770497207661-38",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.046401515151515145
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Support for Those Dealing with Chronic Illness",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Support for Those Dealing with Chronic Illness",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207661-39-1",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.11837121212121211,
+            "width": 0.45098039215686275,
+            "height": 0.13257575757575757
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "You are not alone. Refine Your Life offers support for people working through the emotional and prac"
+          },
+          "content": {
+            "text": "You are not alone. Refine Your Life offers support for people working through the emotional and practical challenges of conditions like MS.\nAnd Christina's support network, including daughter Sadie, remind us how important it is to have people who understand what you're going through. You don't have to face these challenges alone.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207662-40",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.26515151515151514,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Symptom management: CBD options",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Symptom management: CBD options",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207663-41-3",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.3068181818181818,
+            "width": 0.45098039215686275,
+            "height": 0.26515151515151514
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Research is showing that CBD might help with certain MS symptoms. Studies suggest CBD has anti-infla"
+          },
+          "content": {
+            "text": "Research is showing that CBD might help with certain MS symptoms. Studies suggest CBD has anti-inflammatory and neuroprotective properties. [15] It may help reduce muscle spasticity, pain, fatigue, and could even have mood-boosting effects. [15] [16]\nOne recent study looked at vaporized cannabis with 13% CBD and 9% THC. It showed “significant improvement across all outcome assessments” for MS patients dealing with muscle spasticity and bladder issues. [17]\nHere's something interesting: Approximately 66% of people with MS currently use cannabis for symptom treatment. [15] High doses of CBD (up to 1,500 mg daily) have been shown to be well-tolerated. [15] Of course it's important to consult with your healthcare provider on any specific treatment decisions.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207666-13",
+      "spreadPosition": "left",
+      "readingOrderIndex": 13,
+      "elements": [
+        {
+          "elementId": "block-heading-1770497207663-42",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Where to find CBD products",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Where to find CBD products",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207664-43-1",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.09469696969696971,
+            "width": 0.45098039215686275,
+            "height": 0.11363636363636363
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "If you're thinking about exploring CBD options, retailers like CBD Mall and cbdMD offer products tha"
+          },
+          "content": {
+            "text": "If you're thinking about exploring CBD options, retailers like CBD Mall and cbdMD offer products that some MS patients find helpful for managing symptoms. The National MS Society supports people with MS working with their healthcare providers to determine if medical cannabis might be right for them. [18]",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207664-44",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.22253787878787878,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Key Takeaways",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Key Takeaways",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207666-45-3",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.26420454545454547,
+            "width": 0.45098039215686275,
+            "height": 0.30303030303030304
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Christina Applegate's courageous journey with MS reveals the hidden realities of living with chronic"
+          },
+          "content": {
+            "text": "Christina Applegate's courageous journey with MS reveals the hidden realities of living with chronic illness and the power of authentic advocacy.\n• Early MS symptoms are easily dismissed – Christina's tingling toes and leg buckling were present for 6–7 years before diagnosis, highlighting why early detection matters for treatment success.\n• MS creates invisible daily battles – Despite appearing healthy outwardly, Christina lives with excruciating pain, fatigue, and difficulty performing simple tasks like holding her phone.\n• Family support becomes an essential lifeline – Her 14-year-old daughter Sadie serves as her primary motivation to face each day, while caregivers provide crucial practical assistance.\n• Authenticity replaces performance – Through her MeSsy podcast, Christina abandoned her 40-year “character” to share",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207675-14",
+      "spreadPosition": "right",
+      "readingOrderIndex": 14,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207673-45-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.20833333333333331
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "raw, unscripted conversations that help others feel less alone.\n• Purpose emerges from pain – By tra"
+          },
+          "content": {
+            "text": "raw, unscripted conversations that help others feel less alone.\n• Purpose emerges from pain – By transforming her diagnosis into advocacy, Christina demonstrates how chronic illness can catalyze unexpected meaning and connection with others facing similar struggles.\n• Find what works for you – Christina's journey shows us that coping isn't one-size-fits-all.\nChristina's story proves that while MS dramatically alters life's trajectory, it doesn't have to define one's entire existence—instead it could become a catalyst for transformation, vulnerability, and authentic human connection.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207673-46",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.2755681818181818,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Frequently Asked Questions",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "Frequently Asked Questions",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207675-47-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.3172348484848485,
+            "width": 0.45098039215686275,
+            "height": 0.22727272727272727
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "What exactly is multiple sclerosis (MS)?\nMS is a chronic disease of the central nervous system. It o"
+          },
+          "content": {
+            "text": "What exactly is multiple sclerosis (MS)?\nMS is a chronic disease of the central nervous system. It occurs when the immune system mistakenly attacks the protective sheath surrounding nerve fibers in your brain, spinal cord, and optic nerves. This interference disrupts the communication between your brain and the rest of your body.\nHow common is the disease, and who is most at risk?\nNearly one million Americans live with MS. It is approximately three times more common in women than men and is most frequently diagnosed in adults between the ages of 20 and 40.\nWhat are some early warning signs of MS?",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207677-15",
+      "spreadPosition": "left",
+      "readingOrderIndex": 15,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207677-47-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.49242424242424243
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "Christina noted subtle symptoms years before her diagnosis, including tingling in her toes and her l"
+          },
+          "content": {
+            "text": "Christina noted subtle symptoms years before her diagnosis, including tingling in her toes and her leg occasionally “buckling.” Because these signs can disappear for months at a time, they are often easily dismissed as simple fatigue or dehydration.\nWhat are “lesions,” and why are they significant?\nLesions are areas of scar tissue or damage on the brain or spinal cord caused by the disease. The location of these lesions often dictates the symptoms. For example, a lesion behind the optic nerve can cause significant eye pain, as in Christina's case.\nWhy do experts emphasize early detection?\nMedical research shows that starting treatment as soon as possible after diagnosis can slow down irreversible neurological damage. Early intervention helps reduce the frequency of “flares” and can help manage long-term disability.\nWhat does it mean when MS is called an “invisible disease”?\nMany of the most debilitating symptoms—like excruciating nerve pain, extreme fatigue, and cognitive “brain fog”—cannot be seen by others. A person may look healthy on the outside while experiencing a “hellish” internal reality, which can lead to feelings of isolation.\nHow does MS fatigue differ from being “just tired”?\nMS fatigue is often described as overwhelming exhaustion that isn't cured by a good night's sleep.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207679-16",
+      "spreadPosition": "right",
+      "readingOrderIndex": 16,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207678-47-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.15151515151515152
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "It can make even the simplest movements, like picking up a remote or a phone, feel physically imposs"
+          },
+          "content": {
+            "text": "It can make even the simplest movements, like picking up a remote or a phone, feel physically impossible.\nCan lifestyle changes or alternative treatments like CBD help?\nWhile not a cure, lifestyle management is a huge part of the wellness journey. Some studies suggest CBD may help with muscle spasticity and pain. However, it is essential to work with a healthcare provider to find a regulated, safe approach to symptom management.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207678-48",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.21875,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "References",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "References",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207679-49-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.2604166666666667,
+            "width": 0.45098039215686275,
+            "height": 0.24621212121212122
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "[1] – https://en.wikipedia.org/wiki/Christina_Applegate\n[2] – https://abcnews.go.com/GMA/Wellness/ch"
+          },
+          "content": {
+            "text": "[1] – https://en.wikipedia.org/wiki/Christina_Applegate\n[2] – https://abcnews.go.com/GMA/Wellness/christina-applegate-talks-1st-signs-ms-filming-dead/story?id=116704195\n[3] – https://www.today.com/health/christina-applegate-ms-rcna133040\n[4] – https://www.cnn.com/2008/LIVING/10/14/o.christina.applegate.double.mastectomy/\n[5] – https://www.hollywoodreporter.com/tv/tv-news/christina-applegate-ms-seven-years-before-diagnosis-1235851398/\n[6] –",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207682-17",
+      "spreadPosition": "left",
+      "readingOrderIndex": 17,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207682-49-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.49242424242424243
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "https://www.usatoday.com/story/entertainment/celebrities/2025/03/20/christina-applegate-ms-symptoms/"
+          },
+          "content": {
+            "text": "https://www.usatoday.com/story/entertainment/celebrities/2025/03/20/christina-applegate-ms-symptoms/82563100007/\n[7] – https://www.mssociety.org.uk/living-with-ms/treatments-and-therapies/disease-modifying-therapies/early-treatment\n[8] – https://pmc.ncbi.nlm.nih.gov/articles/PMC3583755/\n[9] – https://www.aarp.org/caregiving/basics/christina-applegate-ms-battle/\n[10] – https://www.etonline.com/christina-applegates-multiple-sclerosis-battle-lesions-on-her-brain-isolating-and-living-in-hell\n[11] – https://www.neurologyadvisor.com/cch/managing-fatigue-in-multiple-sclerosis/\n[12] – https://my.clevelandclinic.org/departments/neurological/depts/multiple-sclerosis/ms-approaches/ms-and-fatigue\n[13] – https://www.eonline.com/news/1421754/christina-applegates-daughter-sadie-broken-amid-ms-diagnosis\n[14] – https://abcnews.go.com/GMA/Wellness/christina-applegate-lives-kind-hell-battling-multiple-sclerosis/story?id=108002943\n[15] – https://www.eonline.com/ca/news/1405944/christina-applegate-shares-surprising-coping-mechanism-amid-multiple-sclerosis-battle\n[16] –",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207684-18",
+      "spreadPosition": "right",
+      "readingOrderIndex": 18,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207684-49-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.41666666666666663
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "https://www.latimes.com/entertainment-arts/tv/story/2024-03-13/christina-applegate-multiple-sclerosi"
+          },
+          "content": {
+            "text": "https://www.latimes.com/entertainment-arts/tv/story/2024-03-13/christina-applegate-multiple-sclerosis-jamie-lynn-sigler-messy-podcast\n[17] – https://www.kare11.com/article/entertainment/entertainment-tonight/christina-applegate-credits-her-sick-sense-of-humor-with-helping-her-through-ms-battle-its-how-i-live/603-cd0107f7-10ce-411e-8a22-19078e146f7e\n[18] – https://people.com/christina-applegate-sick-sense-humor-ms-diagnosis-8610894\n[19] – https://www.mssociety.org.uk/living-with-ms/physical-and-mental-health/mental-health/getting-help\n[20] – https://pmc.ncbi.nlm.nih.gov/articles/PMC5874292/\n[21] – https://pmc.ncbi.nlm.nih.gov/articles/PMC9148011/\n[22] – https://www.cannabissciencetech.com/view/multiple-sclerosis-patients-see-improvement-with-vaporized-cannabis-cannabinoids-thc-and-cbd\n[23] – https://www.nationalmssociety.org/managing-ms/treating-ms/integrative-medicine/medical-cannabis\n[24] – https://www.today.com/parents/family/christina-applegate-ms-affects-daughter-sadie-rcna227785\n________________________________________",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-heading-1770497207684-50",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.4839015151515152,
+            "width": 0.45098039215686275,
+            "height": 0.022727272727272728
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "The Lovely Refinement Team",
+            "role": "heading",
+            "level": 2
+          },
+          "content": {
+            "text": "The Lovely Refinement Team",
+            "fontSize": 18.6662,
+            "fontFamily": "Inter, sans-serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        },
+        {
+          "elementId": "block-text-1770497207684-51-2",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.5255681818181818,
+            "width": 0.45098039215686275,
+            "height": 0.03787878787878788
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "We are committed to offering insightful, validated health and wellness guidance."
+          },
+          "content": {
+            "text": "We are committed to offering insightful, validated health and wellness guidance.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    },
+    {
+      "pageId": "layout-page-flow-1770497207685-19",
+      "spreadPosition": "left",
+      "readingOrderIndex": 19,
+      "elements": [
+        {
+          "elementId": "block-text-1770497207685-51-0",
+          "role": "informative",
+          "type": "text",
+          "geometry": {
+            "x": 0.06862745098039216,
+            "y": 0.05303030303030303,
+            "width": 0.45098039215686275,
+            "height": 0.20833333333333331
+          },
+          "zIndex": 1,
+          "accessibility": {
+            "label": "A diverse group of authors carefully crafts all content on Lovely Refinement, each a subject matter "
+          },
+          "content": {
+            "text": "A diverse group of authors carefully crafts all content on Lovely Refinement, each a subject matter expert deeply knowledgeable due to professional backgrounds or lived experience. Lovely Refinement® is certified as an Expert-Level Advanced Wellness Coach and in Women’s Fitness Instruction by ExpertRating, a leading provider of online certifications and holder of ISO 9001:2015 certification for quality management systems. ExpertRating is internationally recognized for its rigorous standards, and we are proud to reflect that same standard of excellence in our content and learning experiences.",
+            "fontSize": 13.332999999999998,
+            "fontFamily": "Georgia, serif",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ]
+    }
+  ],
+  "readingOrder": [
+    "layout-page-flow-1770497207624-0",
+    "layout-page-flow-1770497207632-1",
+    "layout-page-flow-1770497207636-2",
+    "layout-page-flow-1770497207639-3",
+    "layout-page-flow-1770497207641-4",
+    "layout-page-flow-1770497207643-5",
+    "layout-page-flow-1770497207645-6",
+    "layout-page-flow-1770497207647-7",
+    "layout-page-flow-1770497207649-8",
+    "layout-page-flow-1770497207652-9",
+    "layout-page-flow-1770497207657-10",
+    "layout-page-flow-1770497207661-11",
+    "layout-page-flow-1770497207663-12",
+    "layout-page-flow-1770497207666-13",
+    "layout-page-flow-1770497207675-14",
+    "layout-page-flow-1770497207677-15",
+    "layout-page-flow-1770497207679-16",
+    "layout-page-flow-1770497207682-17",
+    "layout-page-flow-1770497207684-18",
+    "layout-page-flow-1770497207685-19"
+  ],
+  "tableOfContents": [
+    {
+      "title": "The Day Everything Changed",
+      "pageId": "layout-page-flow-1770497207632-1",
+      "level": 2
+    },
+    {
+      "title": "The Signs Were There All Along",
+      "pageId": "layout-page-flow-1770497207636-2",
+      "level": 2
+    },
+    {
+      "title": "Why Getting Help Early Matters",
+      "pageId": "layout-page-flow-1770497207636-2",
+      "level": 2
+    },
+    {
+      "title": "Life After Diagnosis: A New Normal",
+      "pageId": "layout-page-flow-1770497207639-3",
+      "level": 2
+    },
+    {
+      "title": "Christina puts it bluntly: “I live kind of in hell.” [5]",
+      "pageId": "layout-page-flow-1770497207639-3",
+      "level": 2
+    },
+    {
+      "title": "Living with chronic pain and fatigue",
+      "pageId": "layout-page-flow-1770497207639-3",
+      "level": 2
+    },
+    {
+      "title": "How MS affects Christina's daily routine",
+      "pageId": "layout-page-flow-1770497207641-4",
+      "level": 2
+    },
+    {
+      "title": "Why she isolates and avoids stimulation",
+      "pageId": "layout-page-flow-1770497207643-5",
+      "level": 2
+    },
+    {
+      "title": "The invisible nature of MS symptoms",
+      "pageId": "layout-page-flow-1770497207643-5",
+      "level": 2
+    },
+    {
+      "title": "How Christina Copes: From Dark Humor to Finding Relief",
+      "pageId": "layout-page-flow-1770497207645-6",
+      "level": 2
+    },
+    {
+      "title": "Why humor became her lifeline",
+      "pageId": "layout-page-flow-1770497207645-6",
+      "level": 2
+    },
+    {
+      "title": "Getting professional help",
+      "pageId": "layout-page-flow-1770497207645-6",
+      "level": 2
+    },
+    {
+      "title": "Leaning on the people who keep her fighting",
+      "pageId": "layout-page-flow-1770497207647-7",
+      "level": 2
+    },
+    {
+      "title": "Christina's “reason”",
+      "pageId": "layout-page-flow-1770497207647-7",
+      "level": 2
+    },
+    {
+      "title": "Finding Purpose: How Christina Turned Her Struggle into Something Meaningful",
+      "pageId": "layout-page-flow-1770497207652-9",
+      "level": 2
+    },
+    {
+      "title": "The MeSsy podcast: real talk about real life",
+      "pageId": "layout-page-flow-1770497207652-9",
+      "level": 2
+    },
+    {
+      "title": "Why she's done hiding",
+      "pageId": "layout-page-flow-1770497207652-9",
+      "level": 2
+    },
+    {
+      "title": "Helping others find their voice",
+      "pageId": "layout-page-flow-1770497207657-10",
+      "level": 2
+    },
+    {
+      "title": "Christina's Story Shows Us What Real Courage Looks Like",
+      "pageId": "layout-page-flow-1770497207661-11",
+      "level": 2
+    },
+    {
+      "title": "Support for Those Dealing with Chronic Illness",
+      "pageId": "layout-page-flow-1770497207663-12",
+      "level": 2
+    },
+    {
+      "title": "Symptom management: CBD options",
+      "pageId": "layout-page-flow-1770497207663-12",
+      "level": 2
+    },
+    {
+      "title": "Where to find CBD products",
+      "pageId": "layout-page-flow-1770497207666-13",
+      "level": 2
+    },
+    {
+      "title": "Key Takeaways",
+      "pageId": "layout-page-flow-1770497207666-13",
+      "level": 2
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "pageId": "layout-page-flow-1770497207675-14",
+      "level": 2
+    },
+    {
+      "title": "References",
+      "pageId": "layout-page-flow-1770497207679-16",
+      "level": 2
+    },
+    {
+      "title": "The Lovely Refinement Team",
+      "pageId": "layout-page-flow-1770497207684-18",
+      "level": 2
+    }
+  ],
+  "metadata": {
+    "author": "",
+    "publishDate": ""
+  }
+}
